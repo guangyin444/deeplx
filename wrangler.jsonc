@@ -3,7 +3,8 @@
   "account_id": "c920c985a2df66661c160258ea5dc613",
   "analytics_engine_datasets": [
     {
-      "binding": "ANALYTICS"
+      "binding": "ANALYTICS",
+      "dataset": "deeplx_ANALYTICS"
     }
   ],
   "compatibility_date": "2025-07-19",
