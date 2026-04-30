@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "account_id": "07c56e0dc4b3b1597495aa78fe7ebbf8",
+  "account_id": "c920c985a2df66661c160258ea5dc613",
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS"
@@ -44,7 +44,7 @@
   },
   "vars": {
     "DEBUG_MODE": "false",
-    "PROXY_URLS": "\"\""
+    "PROXY_URLS": ""
   },
   "workers_dev": false
 }
