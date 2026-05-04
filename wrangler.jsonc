@@ -10,11 +10,6 @@
   "compatibility_date": "2025-07-19",
   "kv_namespaces": [
     {
-      "binding": "CACHE_KV",
-      "id": "021244eb2fe9431f8fbf66bb1570e365",
-      "preview_id": "e9e499fe006e4879a0668e792fe2dd15"
-    },
-    {
       "binding": "RATE_LIMIT_KV",
       "id": "7e7f299a38d3429f8ba1c169abef5221",
       "preview_id": "bbed039364e5488e8ed58701c3ee5da5"
